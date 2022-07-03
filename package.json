@@ -1,0 +1,27 @@
+{
+  "name": "js-ast-parser",
+  "version": "1.0.0",
+  "description": "把javascript代码字符串解析为AST对象",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasking900816/js-ast-parser.git"
+  },
+  "keywords": [
+    "typescript",
+    "ast",
+    "javascript-parser"
+  ],
+  "author": "nocholasking0816",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasking900816/js-ast-parser/issues"
+  },
+  "homepage": "https://github.com/nicholasking900816/js-ast-parser#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
