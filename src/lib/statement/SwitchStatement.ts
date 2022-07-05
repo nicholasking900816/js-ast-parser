@@ -1,7 +1,7 @@
 import { SwitchCaseStatement } from "./SwitchCaseStatement";
 import { NodeCode } from "../../constants";
 import { Statement } from "./Statement";
-import { Expression } from "../Expression/Expression";
+import { Expression } from "../expression/Expression";
 
 export class SwitchStatement extends Statement {
     type = 'SwitchStatement';

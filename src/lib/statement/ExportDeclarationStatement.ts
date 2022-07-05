@@ -1,6 +1,6 @@
 import { NodeCode } from "../../constants";
 import { AstNode } from "../AstNode";
-import { IdentifierLiteralExpression } from "../Expression/IdentifierLiteralExpression";
+import { IdentifierLiteralExpression } from "../expression/IdentifierLiteralExpression";
 import { StringLiteralExpression } from "../Expression/StringLiteralExpression";
 import { Statement } from "./Statement";
 import { VariableDeclarationStatement } from "./VariableDeclarationStatement";

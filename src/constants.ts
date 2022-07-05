@@ -126,6 +126,7 @@ export const NodeCode: any = {
   ThrowStatement: staBit | 0b1 << 18,
   DeleteStatement: staBit | 0b1 << 19,
   UnexpectStatement: staBit | 0b1 << 20,
+  DebuggerStatement: staBit | 0b1 << 21,
   Loop: null,
   Declaration: null
 }

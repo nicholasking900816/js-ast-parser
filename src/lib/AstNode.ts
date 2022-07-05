@@ -4,7 +4,7 @@ export class AstNode {
     type: string;
     code: number;
     isUnexpectEnd = false;
-    loc: {start: number | null, end: number | null};
+    loc: {start: number, end: number};
     scope: any;
     constructor() {
         this.unexpectedNodes = [];

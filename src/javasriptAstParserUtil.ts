@@ -1,6 +1,6 @@
 import { priorityMap } from './constants';
 import { Patterns } from './patterns';
-import { UnExpectStatement } from './lib/Statement/UnExpectStatement';
+import { UnExpectStatement } from './lib/statement/UnExpectStatement';
 import { AstNode } from './lib/AstNode';
 // Test whether a given character code starts an identifier.
 

@@ -1,5 +1,5 @@
 import { NodeCode } from "../../constants";
-import { IdentifierLiteralExpression } from "../Expression/IdentifierLiteralExpression";
+import { IdentifierLiteralExpression } from "../expression/IdentifierLiteralExpression";
 import { StringLiteralExpression } from "../Expression/StringLiteralExpression";
 import { Statement } from "./Statement";
 

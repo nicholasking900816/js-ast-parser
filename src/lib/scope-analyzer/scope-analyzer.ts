@@ -25,7 +25,7 @@ import { UnaryExpression } from "../expression/UnaryExpression";
 import { DeleteStatement } from "../statement/DeleteStatement";
 import { DoWhileStatement } from "../statement/DoWhileStatement";
 import { ExportDeclarationStatement } from "../statement/ExportDeclarationStatement";
-import { ForStatement } from "../Statement/ForStatement";
+import { ForStatement } from "../statement/ForStatement";
 import { IfStatement } from "../statement/IfStatement";
 import { ReturnStatement } from "../statement/ReturnStatement";
 import { SwitchCaseStatement } from "../statement/SwitchCaseStatement";

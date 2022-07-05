@@ -1,5 +1,5 @@
 import { FunctionDeclarationStatement } from "./FunctionDeclarationStatement";
-import { IdentifierLiteralExpression } from "../Expression/IdentifierLiteralExpression";
+import { IdentifierLiteralExpression } from "../expression/IdentifierLiteralExpression";
 import { NodeCode } from "../../constants";
 import { Statement } from "./Statement";
 
