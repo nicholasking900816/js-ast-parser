@@ -1,6 +1,6 @@
 import { NodeCode } from "../../constants";
 import { IdentifierLiteralExpression } from "../expression/IdentifierLiteralExpression";
-import { StringLiteralExpression } from "../Expression/StringLiteralExpression";
+import { StringLiteralExpression } from "../expression/StringLiteralExpression";
 import { Statement } from "./Statement";
 
 export type ImportSpecifier = {
